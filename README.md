@@ -1,1 +1,7 @@
-# graph_neural_network
+## Cora Dataset Benchmark(by Pytorch Geometric)
+
+# 1. APPNP
+ paper : https://arxiv.org/abs/1810.05997v6
+
+# 2. SplineConv
+ paper : https://arxiv.org/abs/1711.08920v2
