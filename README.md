@@ -5,3 +5,6 @@
 
 # 2. SplineConv
  [paper](https://arxiv.org/abs/1711.08920v2)
+
+# 3. SGConv
+ [paper](https://arxiv.org/abs/1902.07153)
