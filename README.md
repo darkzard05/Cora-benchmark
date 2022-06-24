@@ -1,10 +1,18 @@
-## Cora Dataset Benchmark(by Pytorch Geometric)
+Cora Dataset Benchmark
+======================
+* model
 
-# 1. APPNP
- [paper](https://arxiv.org/abs/1810.05997v6)
+    </code>APPNP, SplinceConv, SGConv</code>
 
-# 2. SplineConv
- [paper](https://arxiv.org/abs/1711.08920v2)
 
-# 3. SGConv
- [paper](https://arxiv.org/abs/1902.07153)
+* APPNP
+
+    <code>https://arxiv.org/abs/1810.05997v6</code>
+
+* SplineConv
+
+    <code>https://arxiv.org/abs/1711.08920v2</code>
+
+* SGConv
+
+    <code>https://arxiv.org/abs/1902.07153</code>
